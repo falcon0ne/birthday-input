@@ -1,4 +1,7 @@
-# bday
+# Birthday Input Concept
+Simple "Day of Birth" Input field as Vue Component. It is only a concept right now. Because of that there is no additional data-handling implemented yet.
+
+![Birthday Input Concept](screenshot.gif?raw=true)
 
 ## Project setup
 ```
@@ -13,16 +16,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration

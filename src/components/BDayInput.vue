@@ -49,12 +49,6 @@
 
   export default {
     name: 'BirthdayInput',
-    props: {
-      dayOfBirth: {
-        type: Date,
-        default: false
-      }
-    },
     data() {
       return {
         months,

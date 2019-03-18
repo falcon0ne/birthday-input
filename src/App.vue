@@ -11,6 +11,9 @@
     name: 'app',
     components: {
       BirthdayInput
+    },
+    created() {
+      document.title = 'Birthday Input Concept | Agentur-VIDA'
     }
   }
 </script>
